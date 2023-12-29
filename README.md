@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BugCide
 - 👀 I’m interested in app development (mostly back-end)
 - 🌱 I’m currently learning under gred Computer Science (code in C,C++ and python)
-- 💞️ I’m looking to collaborate on back-end app development in C++ or Python.
+- 💞️ I’m looking to collaborate on back-end app development.
 - 📫 How to reach me, Email: loading...
 
 <!---
